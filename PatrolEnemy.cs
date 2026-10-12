@@ -1,4 +1,4 @@
-//ُSinaPlex
+//SinaPlex
 using UnityEngine;
 
 public class PatrolEnemy : MonoBehaviour
