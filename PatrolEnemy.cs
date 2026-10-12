@@ -1,8 +1,9 @@
-
+//ُSinaPlex
 using UnityEngine;
 
 public class PatrolEnemy : MonoBehaviour
 {
+    
     public enum EnemyState
     {
         Patrol,
